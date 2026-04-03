@@ -1,5 +1,7 @@
-# Finance Dashboard – Power BI  
-<img width="1726" height="963" alt="Screenshot 2025-11-05 224156" src="https://github.com/user-attachments/assets/b4027195-56e2-4c73-8ccb-b6fe88c4a006" />
+# Comprehensive-Banking-Dashboard  
+<img width="1871" height="978" alt="Screenshot 2026-01-20 162041" src="https://github.com/user-attachments/assets/b0eed593-6722-47cf-adbe-b8e8f0db893a" />
+
+
 
 
 ## Data Used  
@@ -7,6 +9,10 @@
 - **Data Preparation** – Microsoft Excel  
 - **Data Modeling & Measures (DAX)** – Power BI  
 - **Data Visualization** – Power BI  
+
+## Problem Statement  
+**Businesses often struggle to understand customer behavior and financial performance due to scattered data and lack of clear visualization.**  
+This project aims to centralize financial and customer data into an interactive dashboard to provide clear insights into customer demographics, regional distribution, and overall financial performance for better decision-making.  
 
 ## Objectives  
 1. Analyze customer distribution by state, gender, and age group.  
@@ -37,6 +43,13 @@
 - Monitor key financial KPIs in real time.  
 - Identify top-performing customer segments and regions.  
 - Enhance decision-making through clear, data-driven insights.  
+
+## Limitations  
+- The dataset is based on **sample/dummy data**, so it may not fully represent real-world business complexity.  
+- Limited time-series analysis, making it less suitable for long-term trend forecasting.  
+- Some external factors (economic conditions, market changes) are not included in the analysis.  
+- Dashboard insights depend on data quality; inaccurate data may impact results.  
+- Interaction is limited to predefined filters and does not include advanced user customization.  
 
 ---
 
